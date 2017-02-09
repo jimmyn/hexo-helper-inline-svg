@@ -1,0 +1,25 @@
+{
+  "name": "hexo-helper-inline-svg",
+  "version": "1.0.0",
+  "description": "Hexo.io helper to inline SVG images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmyn/hexo-helper-inline-svg.git"
+  },
+  "keywords": [
+    "hexo",
+    "helper",
+    "svg",
+    "inline"
+  ],
+  "author": {
+    "name": "Dmitriy Nevzorov",
+    "email": "jimmy.lugat@gmail.com",
+    "url": "https://github.com/jimmyn"
+  },
+  "license": "MIT"
+}
