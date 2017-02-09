@@ -21,5 +21,8 @@
     "email": "jimmy.lugat@gmail.com",
     "url": "https://github.com/jimmyn"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "base64-img": "^1.0.3"
+  }
 }

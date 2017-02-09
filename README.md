@@ -11,10 +11,16 @@ $ npm install hexo-helper-inline-svg --save
 
 ## Usage
 
-To count post content words, add in your theme:
+Add in your theme:
 
 ```html
 <%- inline_svg('/images/example.svg') %>
+```
+
+Or if you want to base64 encode the image
+
+```html
+<img src="<%- inline_svg('/images/example.svg', true) %>" />
 ```
 
 ## License
