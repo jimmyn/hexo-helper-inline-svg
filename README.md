@@ -25,4 +25,4 @@ Or if you want to base64 encode the image
 
 ## License
 
-MIT © [Ludovic LEFEVRE](http://www.ludoviclefevre.fr)
+MIT
