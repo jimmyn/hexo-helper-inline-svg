@@ -1,6 +1,6 @@
 {
   "name": "hexo-helper-inline-svg",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Hexo.io helper to inline SVG images",
   "main": "index.js",
   "scripts": {
